@@ -1,0 +1,19 @@
+--head
+  [title:hoge]
+  [script:-,src:http://example.com/hoge.js]
+  [meta:-nc,name:description,content:description]
+--script
+  [func:-,js_onbuttonclick():alert("button clicked!");]
+-body
+  body
+
+  [button:hoge, class:button1, onClick:js_onbuttonclick()]
+
+  [p:にほんご いける？,style: color:red;]<p style="color:red;">にほんご いける？</p>
+
+  [undefined:-]
+
+  [this is text]
+
+-footer
+  footer
