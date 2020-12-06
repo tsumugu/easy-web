@@ -3,6 +3,6 @@
 
 # Example Project
 ## Project Files
-https://github.com/tsumugu/easy-web/tree/master/tsumugu2626-index
+https://github.com/tsumugu/easy-web/tree/master/test-proj
 ## WebSite
-http://tsumugu2626.xyz/easy-web/compiler/?pn=tsumugu2626-index&fn=main
+http://tsumugu2626.xyz/easy-web/compiler/?pn=test-proj&fn=main
