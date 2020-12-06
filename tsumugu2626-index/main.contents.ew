@@ -1,0 +1,33 @@
+--head
+[title:tsumugu2626.xyz]
+[meta-s:charset=UTF-8]
+[meta-s:viewport=auto]
+[meta-s:theme-color=#fab921]
+[meta-s:description=アカウントとか自作webサービスとかのリンク]
+[script:-,src:https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js]
+[script:-,src:https://www.googletagmanager.com/gtag/js?id=UA-128181978-1]
+[script:-,src:http://tsumugu2626.xyz/jquery.inview.min]
+[script:-,src:http://tsumugu2626.xyz/easy-web/tsumugu2626-index/src/main.js]
+[link:-,rel:stylesheet,type:text/css,href:http://tsumugu2626.xyz/easy-web/tsumugu2626-index/src/style.css]
+
+-body
+[h1:tsumugu2626.xyz]
+アカウントなどのリンク集
+[hr:-]
+[h2:ポートフォリオ]
+[template.top-item:-, name:tsumugu.tech, class_name:github, thumb_url:tsumugutech.png, service_url:https://tsumugu.tech/]
+[hr:-nc]
+[h2:アカウント]
+[template.top-item:-, name:Twitter(技術), class_name:twitter, thumb_url:twitter.png, service_url:https://twitter.com/tsumugutech?lang=ja]
+[template.top-item:-, name:Github, class_name:github, thumb_url:github.png, service_url:https://github.com/tsumugu]
+[template.top-item:-, name:Qiita, class_name:qiita, thumb_url:qiita.png, service_url:http://qiita.com/tsumugu]
+[template.top-item:-, name:dev.to, class_name:github, thumb_url:devto.png, service_url:https://dev.to/tsumugu]
+
+[template.top-item:-, name:ニコニコ動画, class_name:nico, thumb_url:nico.png, service_url:http://www.nicovideo.jp/user/47747351]
+[template.top-item:-, name:YouTube, class_name:youtube, thumb_url:youtube.png, service_url:https://www.youtube.com/channel/UC0PuWc8GyBpepfjysWkXukQ/videos]
+[template.top-item:-, name:Twitter(趣味), class_name:twitter, thumb_url:twitter1515.png, service_url:https://twitter.com/tsumugu1515?lang=ja]
+
+-footer
+[hr:-nc]
+[a:メールで連絡, href:mailto:contact@tsumugu2626.xyz]
+[noscript:<style>.f_before{opacity:1;}</style>]

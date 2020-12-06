@@ -5,7 +5,7 @@ function disp_error($type, $mes) {
   $enc = str_replace(array("\r\n", "\r", "\n"), "", $enc);
 
   $mes_encoded = "{$type}: {$enc}";
-  echo "<script>console.log(\"{$mes_encoded}\");</script>";
+  //echo "<script>console.log(\"{$mes_encoded}\")</script>";
 }
 
 function delete_first_str($str) {
