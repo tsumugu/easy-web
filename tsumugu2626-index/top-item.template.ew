@@ -1,2 +1,0 @@
-#name, class_name, thumb_url, service_url
-[div:[a:[div:[img:-nc, src:http://tsumugu2626.xyz/index_thumb/{thumb_url}, alt:サムネイル],class:thumb_img][div:{name}, class:link_name],href:{service_url}],class:links f_before {class_name}]
