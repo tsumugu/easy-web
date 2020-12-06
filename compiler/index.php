@@ -1,5 +1,6 @@
 <?php
-require_once("functions.php");
+require_once("main.php");
+
 $project_name = basename($_GET["pn"]);
 $project_dir = "../{$project_name}/";
 $file_name = $_GET["fn"];
